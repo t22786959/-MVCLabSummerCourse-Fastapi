@@ -1,0 +1,6 @@
+fastapi
+pyquery
+pydantic
+typing
+uuid
+uvicorn

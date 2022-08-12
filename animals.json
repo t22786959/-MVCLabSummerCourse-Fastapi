@@ -1,0 +1,68 @@
+[
+    {
+        "name": "linkon",
+        "species": "elephant",
+        "gender": "male",
+        "age": 10
+    },
+    {
+        "name": "zinba",
+        "species": "lion",
+        "gender": "male",
+        "age": 5
+    },
+    {
+        "name": "fibby",
+        "species": "giraffe",
+        "gender": "female",
+        "age": 3
+    },
+    {
+        "name": "pearson",
+        "species": "koala",
+        "gender": "male",
+        "age": 7
+    },
+    {
+        "name": "tantan",
+        "species": "panda",
+        "gender": "female",
+        "age": 4
+    },
+    {
+        "name": "nini",
+        "species": "elephant",
+        "gender": "female",
+        "age": 9
+    },
+    {
+        "name": "tracy",
+        "species": "lion",
+        "gender": "female",
+        "age": 5
+    },
+    {
+        "name": "peter",
+        "species": "giraffe",
+        "gender": "male",
+        "age": 6
+    },
+    {
+        "name": "sleepy",
+        "species": "koala",
+        "gender": "female",
+        "age": 6
+    },
+    {
+        "name": "circle",
+        "species": "panda",
+        "gender": "male",
+        "age": 4
+    },
+    {
+        "name": "string",
+        "species": "string",
+        "gender": "string",
+        "age": 0.0
+    }
+]
